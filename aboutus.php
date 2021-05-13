@@ -122,7 +122,7 @@ else {
     </nav>
 
     <div class="wide">
-        <h2 class="header" style="padding:20px; padding-bottom: 30px;">Number 1 National Restaurant in Kyrgyzstan.Faster than you can imagine,
+        <h2 class="header" style="padding:20px; padding-bottom: 30px;">The best Online delivery Cafe in Kyrgyzstan.Faster than you can imagine,
 			get food delivered at your door</h2>
         <div class="tagline">It's not our <font color="red"><strong>work life</strong></font>, it's our <font color="green"><strong><em>life's work</em>.</strong></font></div>
         <h3 style="color: red">About the food culture in Le cafe'</h3><p class="grey-text text-darken-3 lighten-3">This is the web application of  LaCafe
@@ -134,6 +134,6 @@ else {
  
     </div>
 
-      <iframe src="https://www.google.com/maps/place/Le+Cafe/@11.9316155,79.8335933,17z/data=!3m1!4b1!4m5!3m4!1s0x3a53636a24873e45:0x7f1e7ad6a30982dd!8m2!3d11.9316103!4d79.835782" style="width: 250px"></iframe>
+  
          </body>
 </html>
