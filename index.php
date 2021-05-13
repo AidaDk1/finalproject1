@@ -125,6 +125,28 @@ else {
         <div class="col-xs-5 line"><hr></div>
         <div class="tagline">Food is</div>
     </div>
+    <table style="border:1px solid black";border-collapse:collapse">
+				<tr>
+				<th> Food name</th>
+				<th> Prise</th>
+				</tr>
+				<tr>
+				<td> Pizza</td>
+				<td>  200som</td>
+				</tr>
+				<tr>
+				<td> Plov</td>
+				<td>  150som</td>
+				</tr>
+				<tr>
+				<td> French Fries</td>
+				<td>  250som</td>
+				</tr>
+				<tr>
+				<td> Cheeseburger</td>
+				<td>  70som</td>
+				</tr>
+				</table>
     <br>
     <div class="orderblock">
     <h2>Feeling Hungry?</h2>
